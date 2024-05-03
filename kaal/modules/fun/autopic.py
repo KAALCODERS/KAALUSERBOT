@@ -22,7 +22,7 @@ async def _autopic(_, delay):
 
     while bool(__XOR):
         await asyncio.sleep(delay)
-        original = "cache/autopic-template.jpg"
+        original = "cache/kaalimg.jpg"
         photo = "pic.png"
         copyfile(original, photo)
         current_time = datetime.now().strftime(

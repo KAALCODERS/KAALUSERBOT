@@ -2,7 +2,7 @@
 
 <p align="center">ᴋᴀᴀʟ ᴜsᴇʀʙᴏᴛ 🔥 </p>
 
-- A First Telegram Userbot Project With Multi Clients Based On PyroGram
+- A Telegram Userbot Project With Multi Clients Based On PyroGram
 
 <p align="center"><a href="https://t.me/garwmishra1"><img src="https://telegra.ph/file/4d2ffecdfb187fa20b5e5.jpg" width="300"></a></p>
 <p align="center">

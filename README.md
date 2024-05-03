@@ -16,7 +16,7 @@
 ## Requirements 
 
 - PyroGram Session
-- Dummy account
+- Dummy Telegram account
 - Python 3.8+ or 3.7
 - Mongo DB
 

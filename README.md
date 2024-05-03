@@ -84,7 +84,7 @@ and you ended up in a Finale Battle with Telegram and at the end
 ```
 
 ## Credits 💖
-- # [KAAL](https://t.me/coder_kaal)
+- # [ᴋᴀᴀʟ](https://t.me/coder_kaal)
 
 ## Support / Channel
 

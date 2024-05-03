@@ -29,9 +29,9 @@
 
 ᴛᴏ ʙᴇ ꜱᴀꜰᴇ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ ᴀɴᴅ ᴛʜᴇɴ ᴘʀᴇꜱꜱ ᴅᴇᴘʟᴏʏ ʙᴜᴛᴛᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ꜰᴏʀᴋᴇᴅ ʀᴇᴘᴏ 
 
-[ꜰᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ](https://telegra.ph/file/5bcf79f948ca06030640c.mp4)
+[ꜰᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ](https://github.com/KAALCODERS/KAALUSERBOT.git)
 
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Itz-kaal/kaal-Userbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/KAALCODERS/KAALUSERBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## Features 
 
@@ -43,21 +43,15 @@
 
 ## Deploy To Render 
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ITZ-kaal/kaal-USERBOT)
-
-## Hosting With Mogenius 
-
-I will suggest to host on mogenius if uh don't know what is this then 
-Checkout Tutorial!
-<p align="center"><a href="https://youtu.be/qXT1jl60okk"> <img src="https://img.shields.io/badge/kaalUserBot%20Deploy-black?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/kaalcoders/kaaluserbot)
 
 
 ## VPS/Locally deploy!
 ```console
 kaal@Debian~ $ apt-get -y update
 kaal@Debian~ $ apt-get -y install git gcc python3-pip -y
-kaal@Debian~ $ git clone https://github.com/ITZ-kaal/kaal-USERBOT
-kaal@Debian~ $ cd kaal-USERBOT
+kaal@Debian~ $ git clone https://github.com/KAALCODERS/KAALUSERBOT
+kaal@Debian~ $ cd KAALUSERBOT
 kaal@Debian~ $ pip3 install -U -r requirements.txt
 kaal@Debian~ $ cp sample.env .env
 kaal@Debian~ $ nano .env
@@ -90,14 +84,11 @@ and you ended up in a Finale Battle with Telegram and at the end
 ```
 
 ## Credits 💖
-- Zect Userbot
-- Man
-- pyrogram
-- xyz ⚡
+- KAAL(https://t.me/coder_kaal)
 
 ## Support / Channel
 
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 / 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ----> </p>
 
-<p align="center"><a href="https://t.me/TheSupportChat"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-<p align="center"><a href="https://t.me/TheUpdatesChannel"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/kaalkingdom"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/garwmishra1"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
